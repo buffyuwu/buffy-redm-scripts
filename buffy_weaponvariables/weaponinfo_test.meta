@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Infos> 
+<CWeaponInfo>
+    <Name>WEAPON_REVOLVER_CATTLEMAN</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="6" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_REVOLVER_CATTLEMAN_MEXICAN</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="6" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_REVOLVER_DOUBLEACTION</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="6" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_REVOLVER_DOUBLEACTION_GAMBLER</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="6" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_REVOLVER_LEMAT</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="6" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_REVOLVER_NAVY</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="6" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_REVOLVER_NAVY_CROSSOVER</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="6" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_REVOLVER_SCHOFIELD</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="6" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_PISTOL_M1899</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="6" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_PISTOL_MAUSER</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="10" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_PISTOL_SEMIAUTO</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="6" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_PISTOL_VOLCANIC</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="6" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_SNIPERRIFLE_CARCANO</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="6" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.5" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_SNIPERRIFLE_ROLLINGBLOCK</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="6" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.5" />
+        <SectionedReloadInfo />
+        <SectionedReloadInfoDual />
+    </WeaponReload>
+
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_RIFLE_BOLTACTION</Name>    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_RIFLE_ELEPHANT</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="6" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_RIFLE_SPRINGFIELD</Name>
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_RIFLE_VARMINT</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="6" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_REPEATER_CARBINE</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="7" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_REPEATER_EVANS</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="26" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_REPEATER_HENRY</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="15" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+
+<CWeaponInfo>
+    <Name>WEAPON_REPEATER_WINCHESTER</Name>
+    
+    <ClipInfos itemType="dyasubaa_0xde99e9ed">
+        <Item>
+            <Size value="14" />
+        </Item>
+    </ClipInfos>
+    
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.7" />
+    </WeaponReload>
+</CWeaponInfo>
+<CWeaponInfo>
+    <Name>weapon_shotgun_sawedoff</Name> 
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.45" />
+    </WeaponReload>
+</CWeaponInfo>
+<CWeaponInfo>
+    <Name>weapon_shotgun_pump</Name> 
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.45" />
+    </WeaponReload>
+</CWeaponInfo>
+<CWeaponInfo>
+    <Name>weapon_shotgun_repeating</Name> 
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.45" />
+    </WeaponReload>
+</CWeaponInfo>
+<CWeaponInfo>
+    <Name>weapon_shotgun_semiauto</Name> 
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.45" />
+    </WeaponReload>
+</CWeaponInfo>
+<CWeaponInfo>
+    <Name>weapon_shotgun_doublebarrel</Name> 
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.45" />
+    </WeaponReload>
+</CWeaponInfo>
+<CWeaponInfo>
+    <Name>weapon_shotgun_doublebarrel_exotic</Name> 
+    <WeaponReload type="CWeaponReload">
+        <AnimReloadRate value="0.45" />
+    </WeaponReload>
+</CWeaponInfo>
+</Infos>
