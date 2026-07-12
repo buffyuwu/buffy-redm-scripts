@@ -9,6 +9,9 @@ area activity indicators, /lfrp stuff. Made for esfer's RP chat
 - buffy_db
 db tools originally made for Lavinia to modify items, housing stuff, etc via various queries
 
+- npchair
+modified from an open source script that allows you to equip hair that npcs normally only have access to, but adds syncing
+
 - buffy_weaponvariables, redm-weapon-damage
 Weapon changes such as reload speed, magazine size, damage amounts, etc.
 
