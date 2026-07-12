@@ -3,6 +3,9 @@ A collection of my own scripts and modifications to publicly-available scripts
 - bcc-documents-main
 the bcc ID system with UI changes & different fields
 
+- buffy_debug
+whatever i happened to be working on lol. it looks like locking a specific door on the map and getting coords
+
 - buffy_blips
 area activity indicators, /lfrp stuff. Made for esfer's RP chat
 
